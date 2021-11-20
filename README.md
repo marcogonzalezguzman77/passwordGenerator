@@ -10,7 +10,7 @@ With this application you can generate randow passwords based on criteria that y
 
 The following animation shows the portafolio web application's appearance and functionality:
 
-![portfolio demo](./assets/images/portfolioMaggV3.gif)
+![portfolio demo](./assets/images/passwordGenerator.gif)
 
 
-You can watch the web page on the next link [Marco Glz Portfolio](https://marcogonzalezguzman77.github.io/Portfolio/) for more guidance.
+You can watch the web page on the next link [Password Generator](https://marcogonzalezguzman77.github.io/passwordGenerator/) for test.
